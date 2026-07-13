@@ -12,44 +12,31 @@ SQL-Interview-Questions
 ├── Day01-Second-Highest-Salary
 ├── Day02-...
 ├── Day03-...
-└── ...
 ```
 
 Each folder contains:
 
-- 📄 `README.md` – Problem statement, explanation, and key concepts
-- 💻 `solution.sql` – SQL solution
-
-## 📚 Topics Covered
-
-- SELECT
-- WHERE
-- GROUP BY
-- HAVING
-- ORDER BY
-- JOINs
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- Aggregate Functions
-- Case Statements
-- And more...
+- 📄 README.md
+- 🗄 schema.sql
+- 📥 sample_data.sql
+- 💻 solution.sql
 
 ## 🎯 Goal
 
-Solve **100 SQL Interview Questions** while building a strong SQL portfolio and improving problem-solving skills.
+Build a complete SQL interview preparation repository while improving my SQL skills through daily practice.
 
 ## 📅 Progress
 
-- ✅ Day 01 – Second Highest Salary
-- ⏳ Day 02 – Coming Soon
-- ⏳ Day 03 – Coming Soon
+| Day | Status |
+|-----|--------|
+| Day 01 | ✅ Completed |
+| Day 02 | ⏳ Coming Soon |
+| Day 03 | ⏳ Coming Soon |
 
-## 👩‍💻 About Me
+## 🛠 Database
 
-I'm a **Computer Engineer** currently preparing for a career in **Data Engineering**.
+The examples are designed primarily for **PostgreSQL**, while most queries also follow ANSI SQL and can be adapted to MySQL and SQL Server with minor changes.
 
-This repository documents my learning journey through consistent SQL practice and real-world interview questions.
+---
 
-⭐ If you find this repository helpful, feel free to star it and follow my journey!
-
+⭐ New SQL interview questions will be added regularly.
